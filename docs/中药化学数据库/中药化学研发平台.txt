@@ -1,0 +1,23 @@
+中药化学研发平台
+
+
+2008-1-11  从词雀导入shrdb中tcm_admin下数据：
+
+xdfj_fm_1244
+xdfj_ywzc_891
+gjjbyw_hxy_hxcf_1066
+gjjbyw_hxy_ypmc_1248
+zcy_2005_ym_784
+zcy_2005_zyhxcf_768
+zcy_2005_ZZ_783
+
+导入后，改名：加前缀sp_, 去掉后缀的数字。
+
+sp_xdfj_fm
+sp_xdfj_ywzc
+sp_gjjbyw_hxy_hxcf
+sp_gjjbyw_hxy_ypmc
+sp_zcy_2005_ym
+sp_zcy_2005_zyhxcf
+sp_zcy_2005_ZZ
+
