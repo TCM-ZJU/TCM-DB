@@ -94,6 +94,7 @@ cursor.execute(query)
 for (subject, predicate, value) in cursor:
   print("\"{}\"{}\"{}\"".format(
     subject, predicate, value))
+
 cursor.close()
 cnx.close()
 
